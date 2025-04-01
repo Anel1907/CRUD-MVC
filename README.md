@@ -17,7 +17,6 @@ En el contexto de desarrollo web, un CRUD se refiere a una aplicación que permi
     <img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/63fdf75ad4a978704fe9ac9c_CRUD%20%20Preview.jpeg" alt="CRUD" width="500">
 </div>
 
-
 <h3>¿Qué es Arquitectura MVC? </h2>
 
 <p>La arquitectura MVC (Modelo-Vista-Controlador) es un patrón de diseño que organiza el código de una aplicación en tres capas principales para separar la lógica de negocio de la presentación y la interacción del usuario.</p>
@@ -56,5 +55,12 @@ En el contexto de desarrollo web, un CRUD se refiere a una aplicación que permi
 <li>HTML</li>
 <li>CSS</li>
 
+<h2>Organización de Carpetas</h2>
 
-
+<ul>
+<li>Telefonos1 (Carpeta principal)
+<ul>
+<li>.htacces</li>
+<li>app</li>
+<li>public</li>
+</ul>
