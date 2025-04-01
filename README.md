@@ -13,7 +13,11 @@
 </ul>
 En el contexto de desarrollo web, un CRUD se refiere a una aplicación que permite gestionar datos mediante estas cuatro operaciones. </p>
 
-<img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/63fdf75ad4a978704fe9ac9c_CRUD%20%20Preview.jpeg" alt="CRUD" width="500" style="display: block; margin: auto;">
+<div style="text-align: center;">
+    <img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/63fdf75ad4a978704fe9ac9c_CRUD%20%20Preview.jpeg" alt="CRUD" width="500">
+</div>
+
+
 
 
 
