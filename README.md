@@ -47,8 +47,14 @@ En el contexto de desarrollo web, un CRUD se refiere a una aplicación que permi
     <img src="https://www.freecodecamp.org/espanol/news/content/images/size/w1600/2021/06/MVC3.png" alt="CRUD" width="500">
 </div>
 
-<h2>Tecnologías utilizadas</h2>
-
+<h2>Tecnologías y Lenguajes utilizados</h2>
+<ul>
+<li>XAMPP</li>
+<li>Visual Studio Code</li>
+<li>MySQL</li>
+<li>PHP</li>
+<li>HTML</li>
+<li>CSS</li>
 
 
 
