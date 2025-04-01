@@ -2,7 +2,7 @@
 
 <h2>Introducción</h2>
 
-<h3>¿Qué es un CRUD? </h2>
+<h3>¿Qué es un CRUD? </h3>
 
 <p>CRUD es un acrónimo que representa las cuatro operaciones básicas que se pueden realizar en una base de datos o en    cualquier sistema de almacenamiento de datos:
 <ul>
@@ -46,6 +46,9 @@ En el contexto de desarrollo web, un CRUD se refiere a una aplicación que permi
 <div style="text-align: center;">
     <img src="https://www.freecodecamp.org/espanol/news/content/images/size/w1600/2021/06/MVC3.png" alt="CRUD" width="500">
 </div>
+
+<h2>Tecnologías utilizadas</h2>
+
 
 
 
