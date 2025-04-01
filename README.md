@@ -71,7 +71,7 @@ En el contexto de desarrollo web, un CRUD se refiere a una aplicación que permi
 <li>.htaccess</li>
 <li>celulres.sql</li>
 <li>conexion.php</li>
-<ul>
+</ul>
 <li>public</li>
 
 </ul>
