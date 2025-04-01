@@ -54,6 +54,8 @@ En el contexto de desarrollo web, un CRUD se refiere a una aplicación que permi
 <li>PHP</li>
 <li>HTML</li>
 <li>CSS</li>
+</ul>
+
 
 <h2>Organización de Carpetas</h2>
 
