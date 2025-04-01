@@ -44,8 +44,8 @@ En el contexto de desarrollo web, un CRUD se refiere a una aplicación que permi
 </ul>
 
 <div style="text-align: center;">
-    <img src="<div style="text-align: center;>
     <img src="https://www.freecodecamp.org/espanol/news/content/images/size/w1600/2021/06/MVC3.png" alt="CRUD" width="500">
+</div>
 
 
 
