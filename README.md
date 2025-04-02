@@ -81,7 +81,7 @@
                     <li><b>conexion.php: </b>Establece la conexión con la base de datos celulares usando PDO en PHP. Define las credenciales de acceso (servidor, usuario y contraseña) y configura el modo de errores para manejar excepciones. Si la conexión falla, muestra un mensaje de error sin revelar información sensible.</li><br>
                 </ul>
                 <br>
-            <li><b>public:<b>Contiene carpetas que pueden ser o no confidenciales. </li>
+            <li><b>public:</b>Contiene carpetas que pueden ser o no confidenciales. </li>
                 <ul>
                     <li><b>CSS: </b>Contiene el diseño de las vistas.</li>
                     <li><b>imgs: </b>Contiene multimedias.</li>
