@@ -68,7 +68,7 @@
 <ul>
     <li>Telefonos1 (Carpeta principal)
         <ul>
-            <li><b>.htaccess:<b> Este archivo permite bloquear el acceso a los recursos de la carpeta principal. Cada que se requiera acceder a carpeta principal desde la URL automáticamente manda un mensaje de dice que no se tiene el permiso para acceder a ese recurso. </li>
+            <li><b>.htaccess:</b> Este archivo permite bloquear el acceso a los recursos de la carpeta principal. Cada que se requiera acceder a carpeta principal desde la URL automáticamente manda un mensaje de dice que no se tiene el permiso para acceder a ese recurso. </li>
             <li>app
                 <ul>
                     <li>controller</li>
