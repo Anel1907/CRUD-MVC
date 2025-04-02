@@ -10,7 +10,7 @@
 
 <h2>Introducción</h2>
 
-<h3 id="que-es-crud">¿Qué es un CRUD?</h3>
+<h2 id="que-es-crud">¿Qué es un CRUD?</h2>
 
 <p>CRUD es un acrónimo que representa las cuatro operaciones básicas que se pueden realizar en una base de datos o en cualquier sistema de almacenamiento de datos:</p>
 <ul>
@@ -25,7 +25,7 @@
     <img src="https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/63fdf75ad4a978704fe9ac9c_CRUD%20%20Preview.jpeg" alt="CRUD" width="500">
 </div>
 
-<h3 id="que-es-mvc">¿Qué es Arquitectura MVC?</h3>
+<h2 id="que-es-mvc">¿Qué es Arquitectura MVC?</h2>
 
 <p>La arquitectura MVC (Modelo-Vista-Controlador) es un patrón de diseño que organiza el código de una aplicación en tres capas principales para separar la lógica de negocio de la presentación y la interacción del usuario.</p>
 
