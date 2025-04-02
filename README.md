@@ -81,11 +81,15 @@
                     <li><b>conexion.php: </b>Establece la conexión con la base de datos celulares usando PDO en PHP. Define las credenciales de acceso (servidor, usuario y contraseña) y configura el modo de errores para manejar excepciones. Si la conexión falla, muestra un mensaje de error sin revelar información sensible.</li><br>
                 </ul>
                 <br>
-            <li><b>public:</b>Contiene carpetas que pueden ser o no confidenciales. </li>
+            <li><b>public: </b>Contiene carpetas que pueden ser o no confidenciales. </li>
+                <br>
                 <ul>
                     <li><b>CSS: </b>Contiene el diseño de las vistas.</li>
+                    <br>
                     <li><b>imgs: </b>Contiene multimedias.</li>
+                    <br>
                     <li><b>.htaccess: </b>El archivo .htaccess configura las reglas de reescritura en Apache para manejar URLs limpias en el sistema MVC. Activa el motor de reescritura, define la carpeta base (/public) y redirige todas las solicitudes a index.php.</li>
+                    <br>
                     <li><b>index.php: </b>El archivo index.php maneja las solicitudes de la aplicación, ejecutando diferentes acciones (listar, agregar, editar, eliminar) en función de los parámetros de la URL. Incluye el controlador CelularesController.php y direcciona a los métodos correspondientes según la acción solicitada.</li>
                 </ul>
         </ul>
