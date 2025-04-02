@@ -71,7 +71,8 @@
     <br>
         <ul>
             <li><b>.htaccess:</b> Este archivo permite bloquear el acceso a los recursos de la carpeta principal. Cada que se requiera acceder a carpeta principal desde la URL automáticamente manda un mensaje de dice que no se tiene el permiso para acceder a ese recurso. </li><br>
-            <li><b>app:</b> Dentro de esta carpeta se encuentra todo lo confidencial del programador, como por ejemplo códigos.<br>
+            <li><b>app:</b> Dentro de esta carpeta se encuentra todo lo confidencial del programador, como por ejemplo códigos.
+            <br>
             </li>
                 <ul>
                     <li><b>controller:</b> El controlador gestiona las operaciones CRUD de celulares. Obtiene y muestra registros, permite agregar, actualizar y eliminar celulares, y carga las vistas correspondientes. Se conecta a la base de datos para ejecutar consultas y reutiliza métodos para obtener datos según el ID.</li><br>
