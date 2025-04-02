@@ -70,15 +70,15 @@
     <li><b>Telefonos1 (Carpeta principal)</b></li>
         <ul>
             <li><b>.htaccess:</b> Este archivo permite bloquear el acceso a los recursos de la carpeta principal. Cada que se requiera acceder a carpeta principal desde la URL automáticamente manda un mensaje de dice que no se tiene el permiso para acceder a ese recurso. </li>
-            <li>app: Dentro de esta carpeta se encuentra todo lo confidencial del programador, como por ejemplo códigos.
+            <li><b>app:</b> Dentro de esta carpeta se encuentra todo lo confidencial del programador, como por ejemplo códigos.
             </li>
                 <ul>
-                    <li>controller</li>
-                    <li>model</li>
-                    <li>view</li>
-                    <li>.htaccess</li>
-                    <li>celulares.sql</li>
-                    <li>conexion.php</li>
+                    <li><b>controller:</b></li>
+                    <li><b>model:</b></li>
+                    <li><b>view:</b></li>
+                    <li><b>.htaccess</b></li>
+                    <li><b>celulares.sql:</b></li>
+                    <li><b>conexion.php:</b></li>
                 </ul>
             </li>
             <li>public
