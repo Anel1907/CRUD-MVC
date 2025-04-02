@@ -69,16 +69,16 @@
 <ul>
     <li><b>Telefonos1 (Carpeta principal)</b></li>
         <ul>
-            <li><b>.htaccess:</b> Este archivo permite bloquear el acceso a los recursos de la carpeta principal. Cada que se requiera acceder a carpeta principal desde la URL automáticamente manda un mensaje de dice que no se tiene el permiso para acceder a ese recurso. </li>
-            <li><b>app:</b> Dentro de esta carpeta se encuentra todo lo confidencial del programador, como por ejemplo códigos.
+            <li><b>.htaccess:</b> Este archivo permite bloquear el acceso a los recursos de la carpeta principal. Cada que se requiera acceder a carpeta principal desde la URL automáticamente manda un mensaje de dice que no se tiene el permiso para acceder a ese recurso. </li><br>
+            <li><b>app:</b> Dentro de esta carpeta se encuentra todo lo confidencial del programador, como por ejemplo códigos.<br>
             </li>
                 <ul>
-                    <li><b>controller:</b> El controlador gestiona las operaciones CRUD de celulares. Obtiene y muestra registros, permite agregar, actualizar y eliminar celulares, y carga las vistas correspondientes. Se conecta a la base de datos para ejecutar consultas y reutiliza métodos para obtener datos según el ID.</li>
-                    <li><b>model:</b> El modelo Celulares define la estructura de un celular con atributos como marca, modelo, color, precio y plan. Su constructor inicializa estos valores al crear una instancia, permitiendo representar y manejar datos de celulares dentro de la aplicación.</li>
-                    <li><b>view:</b> Las vistas en el sistema CRUD-MVC proporcionan la interfaz para que el usuario interactúe con los datos.</li>
-                    <li><b>.htaccess:</b> Evita el acceso a los recursos de la carpeta app.</li>
-                    <li><b>celulares.sql:</b>Contiene la estructura de la tabla de Celulares de la base de datos.</li>
-                    <li><b>conexion.php:</b>Establece la conexión con la base de datos celulares usando PDO en PHP. Define las credenciales de acceso (servidor, usuario y contraseña) y configura el modo de errores para manejar excepciones. Si la conexión falla, muestra un mensaje de error sin revelar información sensible.</li>
+                    <li><b>controller:</b> El controlador gestiona las operaciones CRUD de celulares. Obtiene y muestra registros, permite agregar, actualizar y eliminar celulares, y carga las vistas correspondientes. Se conecta a la base de datos para ejecutar consultas y reutiliza métodos para obtener datos según el ID.</li><br>
+                    <li><b>model:</b> El modelo Celulares define la estructura de un celular con atributos como marca, modelo, color, precio y plan. Su constructor inicializa estos valores al crear una instancia, permitiendo representar y manejar datos de celulares dentro de la aplicación.</li><br>
+                    <li><b>view:</b> Las vistas en el sistema CRUD-MVC proporcionan la interfaz para que el usuario interactúe con los datos.</li><br>
+                    <li><b>.htaccess:</b> Evita el acceso a los recursos de la carpeta app.</li><br>
+                    <li><b>celulares.sql:</b>Contiene la estructura de la tabla de Celulares de la base de datos.</li><br>
+                    <li><b>conexion.php:</b>Establece la conexión con la base de datos celulares usando PDO en PHP. Define las credenciales de acceso (servidor, usuario y contraseña) y configura el modo de errores para manejar excepciones. Si la conexión falla, muestra un mensaje de error sin revelar información sensible.</li><br>
                 </ul>
             </li>
             <li>public
